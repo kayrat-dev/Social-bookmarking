@@ -7,3 +7,8 @@ db.sqlite3-journal
 .env
 .idea/
 media/
+# SSL Certificates
+*.crt
+*.key
+*.pem
+cert.crt
